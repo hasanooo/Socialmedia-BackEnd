@@ -1,74 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\hubs\\signalrrealtimenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\hubs\\signalrrealtimenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\hubs\\signalrrealtimenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|solutionrelative:src\\applifylab.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.infrastructure\\backgroundjobs\\thumbnailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.infrastructure\\backgroundjobs\\thumbnailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|solutionrelative:src\\applifylab.infrastructure\\backgroundjobs\\thumbnailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.infrastructure\\backgroundjobs\\likesyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.infrastructure\\backgroundjobs\\likesyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|solutionrelative:src\\applifylab.infrastructure\\backgroundjobs\\likesyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.infrastructure\\backgroundjobs\\likereconciliationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.infrastructure\\backgroundjobs\\likereconciliationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|solutionrelative:src\\applifylab.infrastructure\\backgroundjobs\\likereconciliationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.infrastructure\\options\\localstorageoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.infrastructure\\options\\localstorageoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|solutionrelative:src\\applifylab.infrastructure\\options\\localstorageoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|solutionrelative:src\\applifylab.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.infrastructure\\persistence\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.infrastructure\\persistence\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F42A1849-1D01-4481-8A3C-A96DF67A31EE}|src\\ApplifyLab.Infrastructure\\ApplifyLab.Infrastructure.csproj|solutionrelative:src\\applifylab.infrastructure\\persistence\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\hubs\\feedhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\hubs\\feedhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\hubs\\feedhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\middleware\\csrfprotectionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\middleware\\csrfprotectionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\middleware\\csrfprotectionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\auth\\cookiejwtbearerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\auth\\cookiejwtbearerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\auth\\cookiejwtbearerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\auth\\hangfiredashboardauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\documents\\r\u0026d\\project social\\backend\\src\\applifylab.api\\auth\\hangfiredashboardauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\auth\\hangfiredashboardauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|c:\\users\\technonext\\downloads\\applifylab\\applifylab\\backend\\src\\applifylab.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{82B33DA7-ADE5-4E24-8ABD-20FB83780C51}|src\\ApplifyLab.Api\\ApplifyLab.Api.csproj|solutionrelative:src\\applifylab.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,115 +86,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ThumbnailJob.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\ThumbnailJob.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\ThumbnailJob.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\ThumbnailJob.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\ThumbnailJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:28:06.975Z",
+              "WhenOpened": "2026-07-05T05:27:49.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LikeSyncJob.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeSyncJob.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeSyncJob.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeSyncJob.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeSyncJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T05:27:44.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LikeReconciliationJob.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeReconciliationJob.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeReconciliationJob.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeReconciliationJob.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeReconciliationJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T05:27:36.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalStorageOptions.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\Options\\LocalStorageOptions.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\Options\\LocalStorageOptions.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\Options\\LocalStorageOptions.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\Options\\LocalStorageOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T05:27:26.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\Options\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\Options\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\Options\\JwtOptions.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\Options\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T05:27:24.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T05:27:15.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalRRealtimeNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Hubs\\SignalRRealtimeNotifier.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Hubs\\SignalRRealtimeNotifier.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Hubs\\SignalRRealtimeNotifier.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Api\\Hubs\\SignalRRealtimeNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T05:26:51.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\appsettings.json",
+              "RelativeToolTip": "src\\ApplifyLab.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-04T10:46:49.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ThumbnailJob.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\ThumbnailJob.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\ThumbnailJob.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\ThumbnailJob.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\ThumbnailJob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:27:49.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LikeSyncJob.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeSyncJob.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeSyncJob.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeSyncJob.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeSyncJob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:27:44.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LikeReconciliationJob.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeReconciliationJob.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeReconciliationJob.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeReconciliationJob.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\BackgroundJobs\\LikeReconciliationJob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:27:36.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LocalStorageOptions.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\Options\\LocalStorageOptions.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\Options\\LocalStorageOptions.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\Options\\LocalStorageOptions.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\Options\\LocalStorageOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:27:26.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JwtOptions.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\Options\\JwtOptions.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\Options\\JwtOptions.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\Options\\JwtOptions.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\Options\\JwtOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:27:24.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CommentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:27:15.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T05:28:06.975Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SignalRRealtimeNotifier.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Hubs\\SignalRRealtimeNotifier.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Hubs\\SignalRRealtimeNotifier.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Hubs\\SignalRRealtimeNotifier.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Api\\Hubs\\SignalRRealtimeNotifier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:26:51.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "src\\ApplifyLab.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,106 +208,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FeedHub.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Hubs\\FeedHub.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Hubs\\FeedHub.cs",
               "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Hubs\\FeedHub.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Hubs\\FeedHub.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Hubs\\FeedHub.cs",
               "RelativeToolTip": "src\\ApplifyLab.Api\\Hubs\\FeedHub.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:26:47.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HealthController.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Controllers\\HealthController.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Controllers\\HealthController.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Controllers\\HealthController.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Api\\Controllers\\HealthController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:26:25.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T05:26:47.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ValidationFilter.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Filters\\ValidationFilter.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Filters\\ValidationFilter.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Filters\\ValidationFilter.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Api\\Filters\\ValidationFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Api\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:26:21.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T05:26:25.646Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CsrfProtectionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Middleware\\CsrfProtectionMiddleware.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Middleware\\CsrfProtectionMiddleware.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Middleware\\CsrfProtectionMiddleware.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Api\\Middleware\\CsrfProtectionMiddleware.cs",
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Filters\\ValidationFilter.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Api\\Filters\\ValidationFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:26:19.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T05:26:21.392Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "Title": "CsrfProtectionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Middleware\\CsrfProtectionMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Middleware\\CsrfProtectionMiddleware.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Middleware\\CsrfProtectionMiddleware.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Api\\Middleware\\CsrfProtectionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:26:17.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T05:26:19.113Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CookieJwtBearerEvents.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Auth\\CookieJwtBearerEvents.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Auth\\CookieJwtBearerEvents.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Auth\\CookieJwtBearerEvents.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Api\\Auth\\CookieJwtBearerEvents.cs",
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:25:25.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T05:26:17.102Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "HangfireDashboardAuthFilter.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Auth\\HangfireDashboardAuthFilter.cs",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Auth\\HangfireDashboardAuthFilter.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\Auth\\HangfireDashboardAuthFilter.cs",
-              "RelativeToolTip": "src\\ApplifyLab.Api\\Auth\\HangfireDashboardAuthFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAALAAAAAAAAAA==",
+              "Title": "CookieJwtBearerEvents.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Auth\\CookieJwtBearerEvents.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Auth\\CookieJwtBearerEvents.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Auth\\CookieJwtBearerEvents.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Api\\Auth\\CookieJwtBearerEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T05:24:50.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T05:25:25.657Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\TechnoNext\\Downloads\\ApplifyLab\\ApplifyLab\\backend\\src\\ApplifyLab.Api\\appsettings.json",
-              "RelativeToolTip": "src\\ApplifyLab.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-04T10:46:49.45Z"
+              "Title": "HangfireDashboardAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Auth\\HangfireDashboardAuthFilter.cs",
+              "RelativeDocumentMoniker": "src\\ApplifyLab.Api\\Auth\\HangfireDashboardAuthFilter.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Documents\\R\u0026D\\project social\\backend\\src\\ApplifyLab.Api\\Auth\\HangfireDashboardAuthFilter.cs",
+              "RelativeToolTip": "src\\ApplifyLab.Api\\Auth\\HangfireDashboardAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T05:24:50.822Z"
             }
           ]
         }

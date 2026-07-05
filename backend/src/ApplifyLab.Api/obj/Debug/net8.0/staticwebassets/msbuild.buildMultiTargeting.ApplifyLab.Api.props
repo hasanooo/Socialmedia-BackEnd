@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\ApplifyLab.Api.props" />
-</Project>

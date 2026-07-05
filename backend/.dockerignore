@@ -1,0 +1,42 @@
+# Build artifacts (contain Windows-specific paths, must not be copied into Linux container)
+**/bin/
+**/obj/
+
+# IDE / editor folders
+**/.vs/
+**/.vscode/
+**/.idea/
+**/*.user
+**/*.suo
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Docker
+Dockerfile
+docker-compose*.yml
+.dockerignore
+
+# OS files
+**/Thumbs.db
+**/.DS_Store
+
+# Logs
+**/*.log
+
+# Test results / coverage
+**/TestResults/
+**/coverage/
+
+# NuGet
+**/*.nupkg
+**/packages/
+
+# Node (if any frontend/tooling lives in this repo)
+**/node_modules/
+
+# Env files (avoid leaking secrets into image layers)
+**/.env
+**/.env.*

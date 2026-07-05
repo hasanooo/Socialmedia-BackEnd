@@ -1,0 +1,11 @@
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\bin\Debug\net8.0\ApplifyLab.Domain.deps.json
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\bin\Debug\net8.0\ApplifyLab.Domain.dll
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\bin\Debug\net8.0\ApplifyLab.Domain.pdb
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\obj\Debug\net8.0\ApplifyLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\obj\Debug\net8.0\ApplifyLab.Domain.AssemblyInfoInputs.cache
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\obj\Debug\net8.0\ApplifyLab.Domain.AssemblyInfo.cs
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\obj\Debug\net8.0\ApplifyLab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\obj\Debug\net8.0\ApplifyLab.Domain.dll
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\obj\Debug\net8.0\refint\ApplifyLab.Domain.dll
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\obj\Debug\net8.0\ApplifyLab.Domain.pdb
+C:\Users\MAHAMUD\Documents\ApplifyLab\backend\src\ApplifyLab.Domain\obj\Debug\net8.0\ref\ApplifyLab.Domain.dll
